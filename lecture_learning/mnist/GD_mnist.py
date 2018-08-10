@@ -1,4 +1,4 @@
-from mnist.description_mnist_data import mnist
+import mnist
 
 import tensorflow as tf
 
